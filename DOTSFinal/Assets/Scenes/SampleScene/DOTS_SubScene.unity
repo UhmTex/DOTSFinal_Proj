@@ -149,14 +149,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   BurstInterval: 1
-  ParticlesPerBurst: 50
+  ParticlesPerBurst: 20
   ParticleLifetime: 1
-  MinSpeed: 5
-  MaxSpeed: 10
+  MinSpeed: 3
+  MaxSpeed: 5
   Gravity: -9.81
-  BaseColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  BaseColor: {r: 0.07068697, g: 0.9528302, b: 0, a: 1}
   ParticlePrefab: {fileID: 591780876956629762, guid: a86060dffbe163048b59513a01101c39, type: 3}
-  InitialSize: 0.15
+  InitialSize: 0.5
 --- !u!4 &1453705044
 Transform:
   m_ObjectHideFlags: 0
